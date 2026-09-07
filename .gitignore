@@ -61,3 +61,7 @@ qa-macos/
 # README media (served from the GitHub release, not the tree — installs copy the repo)
 docs/demo.gif
 docs/popup.png
+
+# Local working drafts (promo copy etc. — never shipped)
+/geeknews-draft.md
+*.draft.md
