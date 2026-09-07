@@ -3,10 +3,6 @@
 > Compile rough spoken developer intent into **one structured XML coding-agent prompt**.
 > **Speech → Prompt**, not just Speech → Text.
 
-**Status: 🚧 Pre-release.** Direct install works today (see below); Linux is
-verified end-to-end, macOS/Windows validation and a marketplace listing are in
-progress.
-
 STP is a [Claude Code](https://claude.com/claude-code) plugin that captures your
 voice, transcribes it locally (Whisper), and runs a repo-grounded "grill" loop
 to produce a single, confirmed, structured XML prompt for your coding agent —
